@@ -1,3 +1,4 @@
+# Musicon
 The objective of this project is to update the website of an online musical instruments store, Musicon. The project will rely on knowledge of HTML, CSS, JavaScript, and Handlebars to make a stylish multi-page interactive website!
 
 Musicon will have three separate web pages: a home page, a store page, and a contacts page. The home and store pages already have most of the HTML and CSS set up. The project requires the following changes:
