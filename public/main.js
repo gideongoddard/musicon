@@ -33,6 +33,36 @@ const context = {
         name: 'Violin',
         description: 'A versatile that is suited for any and all occasions. Those wearing tuxedos can strum together a classic. Others who prefer overalls can call it a fiddle and play some folk songs.',
         price: '$245.00'
+      },
+      {
+        image: 'https://www.popoptiq.com/wp-content/uploads/2018/09/slide-trumpet-092918-min.jpg',
+        name: 'Trumpet',
+        description: 'The quintessential and best known brass instrument, the trumpet can leave beginners looking a little silly but once you get the hang of it, your future in a brass band will almost certainly not lead to fame and fortune.',
+        price: '$199.00',
+        sale: '$149.99'
+      }
+    ],
+    teamIntro: 'Meet the Team',
+    team: [
+      {
+        name: 'Jack Frost',
+        job: 'Managing Director',
+        about: "I founded Musicon because I had nothing better to do. I\'ve since been very surprised at its success because it reallys isn\'t very good at all. Nevertheless I'm very happy because now I can sit back and make money whilst all my staff do the hard work."
+      },
+      {
+        name: 'Dirty Den',
+        job: 'Sales Director',
+        about: "My role here at Musicon is to rip people off. I\'m quite unscrupulous about it, probably because like most of the people in my kind of role, you rise to the top if you stop caring about people\'s wellbeing and just prioritise money. Money money money money."
+      },
+      {
+        name: 'Frankie Hollywood',
+        job: 'Assistant Rockstar',
+        about: "I don\'t want to blow my own trumpet...but I kinda have to because it\'s my job!! Gosh, I\'m so funny, it really is a shame that people can\'t hear my jokes over the noise of my music. I play music to inspire people to buy - they think they can be as awesome as me."
+      },
+      {
+        name: 'Nutcase Nigel',
+        job: 'Accountant',
+        about: "Accounting is just so wild. I\'ve brought a real flair and creativity to the job and Musicon\'s financial reports have never looked so good. Some people raise an eyebrow at the phrase 'Creative Accounting' but I can assure you it\'s a real art form...trust me!"
       }
     ]
   };

@@ -79,8 +79,9 @@
   
   #introduction a {
     display: block;
-    width: 20%;
-    padding: 3% 8%;
+    width: 50%;
+    max-width: 250px;
+    padding: 2.5% 5%;
     margin: 0 auto;
     color: #ffffff;
     background-color: #4c7ef3;
@@ -88,7 +89,7 @@
   }
   
   #introduction a:hover {
-    background-color: #26A69A;
+    background-color: #3663f8;
   }
   
   /* Store Page Rulesets */
@@ -100,6 +101,7 @@
   
   .instrument {
     width: 90%;
+    max-width: 800px;
     overflow: auto;
     background-color: white;
     opacity: 0.9;
@@ -154,7 +156,38 @@
     font-weight: bold;
     text-align: left;
   }
-  
+
+  /* Team Page Rulesets */
+
+  .staff {
+    width: 90%;
+    max-width: 650px;
+    display: inline-block;
+    margin: 20px 20px 20px 0;
+    padding: 1% 2%;
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 5px;
+    min-height: 140px;
+  }
+
+  .staff h3, .staff h4, .staff p {
+    color: black;
+  }
+
+  .left {
+    width: 23%;
+    float: left;
+    border-right: 1px solid black;
+    padding: 1%;
+  }
+
+  .right {
+    float: right;
+    width: 72%;
+    padding: 1%;
+  }
+
   /* Contact Page Rulesets */
   
   #connection {
